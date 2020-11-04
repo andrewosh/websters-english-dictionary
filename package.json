@@ -1,0 +1,24 @@
+{
+  "name": "websters-english-dictionary",
+  "version": "1.0.0",
+  "description": "A Node module wrapper for the Webster's English Dictionary in JSON form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewosh/websters-english-dictionary.git"
+  },
+  "keywords": [
+    "dictionary",
+    "websters",
+    "json"
+  ],
+  "author": "Andrew Osheroff <andrewosh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewosh/websters-english-dictionary/issues"
+  },
+  "homepage": "https://github.com/andrewosh/websters-english-dictionary#readme"
+}
