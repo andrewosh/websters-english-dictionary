@@ -1,1 +1,4 @@
-module.exports = require('./dictionary.json')
+module.exports = {
+  kvPairs: () => require('./kv-pairs.json'),
+  dictionary: () => require('./dictionary.json')
+}
